@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rahmatullakhujaev
 - 👀 I’m interested in Space and games
-- 🌱 I’m currently learning Django, Odoo
+- 🌱 I’m currently learning Django Api
 - 📫 @adventurerah - Telegram contact
-- ⚡ Fun fact: I am single
+- ⚡ Fun fact: I am single )
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
